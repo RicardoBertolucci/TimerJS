@@ -18,6 +18,6 @@ Zerar - Deve parar a contagem do cronômetro e atribuir o valor do estado inicia
   - <h2>Javascript</h2>
 </br>
 
-# 🖼️ Formulário de Validação
+# 🖼️ Cronômetro
 
 <img src="./Cronômetro.png"/>
