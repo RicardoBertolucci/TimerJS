@@ -1,4 +1,4 @@
-# Valida-FormularioJS
+# Cronômetro JS
 
 # ✍️ Projeto
 
